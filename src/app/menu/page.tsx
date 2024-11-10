@@ -24,7 +24,7 @@ export default function Menu() {
                 price="PKR 210" 
             />
             <MenuCard 
-                title="Vanilla Swirl" 
+                title="Double Vanilla Swirl" 
                 image="/Vanilla Swirl.webp" 
                 price="PKR 140" 
             />
